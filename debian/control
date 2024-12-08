@@ -1,0 +1,23 @@
+Source: aptosid-settings-budgie
+Section: graphics
+Priority: optional
+Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Uploaders: Kel Modderman <kelvmod@gmail.com>
+Rules-Requires-Root: no
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.7.0
+Vcs-Git: https://github.com/fullstory/aptosid-settings-budgie.git
+Vcs-Browser: https://github.com/fullstory/aptosid-settings-budgie
+
+Package: aptosid-settings-budgie
+Depends: ${misc:Depends},
+ aptosid-art-wallpaper
+Recommends: xdg-browser-launcher
+Architecture: all
+Description: provide default Budgie settings for aptosid
+ Provides default settings for appearance and applications of the Budgie
+ Desktop Environment in aptosid.
+ .
+ This overrides Budgie's defaults used for new users, all settings remain
+ configurable by the local user and don't override already existing user
+ profiles.
