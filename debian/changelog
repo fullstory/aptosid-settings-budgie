@@ -1,14 +1,11 @@
-aptosid-settings-budgie (1.0.1) UNRELEASED; urgency=medium
-
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+aptosid-settings-budgie (1.0.1) unstable; urgency=medium
 
   [ Kel Modderman ]
   * Enable edge tiling.
   * No longer attempt to pin any launchers.
   * Add panel.ini for a customised budgie-panel.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 09 Dec 2024 10:38:22 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 09 Dec 2024 14:47:30 +0100
 
 aptosid-settings-budgie (1.0.0) unstable; urgency=medium
 
