@@ -1,5 +1,5 @@
 [com.solus-project.icon-tasklist]
-pinned-launchers=['xdg-browser-launch.desktop', 'aptosid-irc.desktop']
+pinned-launchers=['xdg-browser-launcher.desktop', 'aptosid-irc.desktop']
 
 [org.gnome.desktop.wm.preferences]
 titlebar-font='Noto Sans Bold 11'
@@ -31,11 +31,3 @@ picture-uri='file:///usr/share/wallpapers/aptosid-nemesis-wide.png'
 [com.solus-project.budgie-panel]
 builtin-theme=false
 dark-theme=true
-
-[com.solus-project.budgie-panel.panel]
-location='bottom'
-dock-mode=true
-spacing=5
-size=36
-transparency='dynamic'
-enable-shadow=true
