@@ -37,3 +37,6 @@ picture-uri='file:///usr/share/wallpapers/aptosid-nemesis-wide.png'
 [com.solus-project.budgie-panel]
 builtin-theme=false
 dark-theme=true
+
+[com.solus-project.budgie-wm]
+edge-tiling=true

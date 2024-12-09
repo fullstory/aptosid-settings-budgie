@@ -1,6 +1,10 @@
 aptosid-settings-budgie (1.0.1) UNRELEASED; urgency=medium
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
+
+  [ Kel Modderman ]
+  * Enable edge tiling.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 09 Dec 2024 10:38:22 +0100
 
