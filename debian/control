@@ -12,7 +12,8 @@ Vcs-Browser: https://github.com/fullstory/aptosid-settings-budgie
 Package: aptosid-settings-budgie
 Depends: ${misc:Depends},
  aptosid-art-wallpaper
-Recommends: xdg-browser-launcher
+Recommends: xdg-browser-launcher,
+ fonts-noto
 Architecture: all
 Description: provide default Budgie settings for aptosid
  Provides default settings for appearance and applications of the Budgie

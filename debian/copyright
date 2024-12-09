@@ -7,6 +7,11 @@ Files: *
 Copyright: 2024, Stefan Lippers-Hollmann <s.l-h@gmx.de>
            2024, Kel Modderman <kelvmod@gmail.com>
 License: GPL-2.0
+ .
+Files: *.override
+Copyright: 2016-2018, David Mohammed <fossfreedom@ubuntu.com>
+           2024, Kel Modderman <kelvmod@gmail.com>
+License: GPL-2+
 
 License: GPL-2.0
  This package is free software; you can redistribute it and/or modify
