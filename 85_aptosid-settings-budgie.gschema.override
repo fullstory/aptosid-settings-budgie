@@ -1,5 +1,5 @@
-[com.solus-project.budgie-raven]
-enable-week-numbers=true
+[com.solus-project.icon-tasklist]
+pinned-launchers=['xdg-browser-launcher.desktop']
 
 [org.gnome.desktop.wm.preferences]
 titlebar-font='Noto Sans Bold 11'
