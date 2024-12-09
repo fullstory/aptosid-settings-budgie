@@ -11,7 +11,7 @@ Vcs-Browser: https://github.com/fullstory/aptosid-settings-budgie
 
 Package: aptosid-settings-budgie
 Depends: ${misc:Depends},
- aptosid-art-wallpaper
+ aptosid-art-wallpaper-nemesis
 Recommends: xdg-browser-launcher,
  fonts-noto
 Architecture: all
