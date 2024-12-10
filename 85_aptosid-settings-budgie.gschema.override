@@ -1,5 +1,5 @@
 [com.solus-project.icon-tasklist]
-pinned-launchers=['xdg-browser-launcher.desktop']
+pinned-launchers=['aptosid-xdg-browser-launcher.desktop']
 
 [org.gnome.desktop.wm.preferences]
 titlebar-font='Noto Sans Bold 11'
