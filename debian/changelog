@@ -1,7 +1,4 @@
-aptosid-settings-budgie (1.0.3) UNRELEASED; urgency=medium
-
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+aptosid-settings-budgie (1.0.3) unstable; urgency=medium
 
   [ Kel Modderman ]
   * Follow https://specifications.freedesktop.org/menu-
@@ -9,7 +6,7 @@ aptosid-settings-budgie (1.0.3) UNRELEASED; urgency=medium
     aptosid-.
   * Move VisualSpace down the line.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 10 Dec 2024 07:06:26 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 10 Dec 2024 18:57:39 +0100
 
 aptosid-settings-budgie (1.0.2) unstable; urgency=medium
 
