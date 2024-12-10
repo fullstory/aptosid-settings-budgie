@@ -7,6 +7,7 @@ aptosid-settings-budgie (1.0.3) UNRELEASED; urgency=medium
   * Follow https://specifications.freedesktop.org/menu-
     spec/1.0/go01.html and prefix xdg-browser-launcher.desktop with
     aptosid-.
+  * Move VisualSpace down the line.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 10 Dec 2024 07:06:26 +0100
 
