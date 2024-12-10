@@ -1,8 +1,10 @@
-aptosid-settings-budgie (1.0.2) UNRELEASED; urgency=medium
+aptosid-settings-budgie (1.0.2) unstable; urgency=medium
 
-  * NOT RELEASED YET
+  [ Kel Modderman ]
+  * pin xdg-browser-launcher and remove the raven settings.
+  * pop places in the systray.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 09 Dec 2024 14:48:07 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 10 Dec 2024 07:05:40 +0100
 
 aptosid-settings-budgie (1.0.1) unstable; urgency=medium
 
