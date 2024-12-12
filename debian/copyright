@@ -8,6 +8,10 @@ Copyright: 2024, Stefan Lippers-Hollmann <s.l-h@gmx.de>
            2024, Kel Modderman <kelvmod@gmail.com>
 License: GPL-2.0
 
+Files: *.svg
+Copyright: 2007-2010, Bernard Gray <bernard.gray@gmail.com>
+License: GPL-2+
+
 Files: *.override *.ini
 Copyright: 2016-2018, David Mohammed <fossfreedom@ubuntu.com>
            2024, Kel Modderman <kelvmod@gmail.com>

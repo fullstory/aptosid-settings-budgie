@@ -1,6 +1,14 @@
 aptosid-settings-budgie (1.0.4) UNRELEASED; urgency=medium
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
+
+  [ Kel Modderman ]
+  * 85_aptosid-settings-budgie.gschema.override:
+    - scope org.gnome.desktop.wm.preferences to Budgie
+    - set show-active-mounts=true in org.buddiesofbudgie.budgie-desktop-view
+    - provide /usr/share/pixmaps/aptosid-logo-budgie.svg and use it for then
+      menu icon
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 10 Dec 2024 18:57:58 +0100
 

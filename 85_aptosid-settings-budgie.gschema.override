@@ -1,7 +1,7 @@
 [com.solus-project.icon-tasklist]
 pinned-launchers=['aptosid-xdg-browser-launcher.desktop']
 
-[org.gnome.desktop.wm.preferences]
+[org.gnome.desktop.wm.preferences:Budgie]
 titlebar-font='Noto Sans Bold 11'
 titlebar-uses-system-font=false
 
@@ -37,3 +37,10 @@ dark-theme=true
 
 [com.solus-project.budgie-wm]
 edge-tiling=true
+
+[org.buddiesofbudgie.budgie-desktop-view]
+show=true
+show-active-mounts=true
+
+[com.solus-project.budgie-menu]
+menu-icon='/usr/share/pixmaps/aptosid-logo-budgie.svg'
