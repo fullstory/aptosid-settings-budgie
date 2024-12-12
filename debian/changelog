@@ -9,6 +9,7 @@ aptosid-settings-budgie (1.0.4) UNRELEASED; urgency=medium
     - set show-active-mounts=true in org.buddiesofbudgie.budgie-desktop-view
     - provide /usr/share/pixmaps/aptosid-logo-budgie.svg and use it for then
       menu icon
+  * Provide /etc/xdg/budgie-mimeapps.list.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 10 Dec 2024 18:57:58 +0100
 

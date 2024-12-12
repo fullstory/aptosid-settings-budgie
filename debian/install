@@ -1,3 +1,4 @@
 *.override usr/share/glib-2.0/schemas
 *.ini etc/budgie-desktop
 aptosid-logo-budgie.svg usr/share/pixmaps
+budgie-mimeapps.list etc/xdg
